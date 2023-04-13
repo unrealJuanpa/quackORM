@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: quackORM
+Version: 0.1
+Summary: An ORM that supports mysql and sounds like a duck :D
+Home-page: https://github.com/unrealJuanpa/quackORM.git
+Author: unrealJuanpa
+Author-email: juanpacloud@gmail.com
+License: MIT
+License-File: LICENSE

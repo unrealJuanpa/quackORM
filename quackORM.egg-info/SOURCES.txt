@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+quackORM/__init__.py
+quackORM/setup.py
+quackORM.egg-info/PKG-INFO
+quackORM.egg-info/SOURCES.txt
+quackORM.egg-info/dependency_links.txt
+quackORM.egg-info/requires.txt
+quackORM.egg-info/top_level.txt
